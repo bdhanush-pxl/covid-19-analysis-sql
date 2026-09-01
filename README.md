@@ -72,4 +72,4 @@ This project analyzes worldwide COVID-19 data (cases, deaths, and vaccinations) 
 
 **Dhanush Bandi**
 - GitHub: [@bdhanush-pxl](https://github.com/bdhanush-pxl)
-- LinkedIn: [dhanushbandi](https://www.linkedin.com/in/dhanushbandi-0b06412b5)
+- LinkedIn: [dhanushbandi](https://www.linkedin.com/in/dhanush-bandi-0b06412b5/)
